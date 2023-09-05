@@ -1,0 +1,15 @@
+%FSTAX23Y23*%
+%MOIN*%
+%SFA1B1*%
+
+%IPPOS*%
+%ADD61C,0.001000*%
+%LNlamp_profile-1*%
+%LPD*%
+G54D61*
+X0Y0D02*
+Y03937D01*
+X03937*
+Y0*
+X0*
+M02*
